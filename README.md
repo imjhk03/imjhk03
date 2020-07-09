@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **imjhk03/imjhk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an iOS developer based in South Korea. Currently I’m working full-time for Brandi Co. on the productivity of 20 Women Shopping app "Brandi", 20 Men Shopping app "Hiver", and Brandi seller’s wholesale app "Trandi". Because of the former senior developer had to go on parental vacation, I've been temporarily the head of iOS Engineer, leading the iOS team from June 2019 to May 2020.
+
+Creating something good for people and crafting for better experience is my goal. Learning new things always make me want to code more. Prefers seafood to meat and coke is my fuel. 
