@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an iOS developer based in South Korea. Currently I’m working full-time for Brandi Co., which provides a platform for stores to sell their products to users from our app. Because of the former senior developer had to go on parental vacation, I've been temporarily the head of iOS Engineer, leading the iOS team from June 2019 to May 2020.
+As an iOS developer for 3 years, I have been working on the development and maintenance of Brandi, Hiver, and Trandi app in Brandi inc. Due to senior developer's paternity leave from June 2019 to May 2020, I had led the iOS part with a junior developer. I like to watch the latest iOS developments and news about Apple, and enjoy watching WWDC videos. I have went to WWDC in 2018, 2019, alone to the U.S. to participate the event and interact with various developers.
 
-Creating something good for people and crafting for better experience is my goal. Learning new things always make me want to code more. Prefers seafood to meat and coke is my fuel. 
+The first experience of developing and distributing app was when I was a college student. I have developed an in-house iPad app. From issuing an Enterprise Developer account to deploying it, I did it by myself. Since then, I started my career as an iOS developer at Brandi Inc.. In 2019, I had led the iOS app develop for a new service of the company, architecturing, developing and deploying.
+
+ I have also develop an iMessage app, Apple Watch app, and Sign in with Apple features, and got used to the design pattern of VIPER. Recently, I have changed the structure of the app designed with VIPER pattern to MVVM pattern, and distributed that app. To implement SwiftUI and Combine in the future, we are working on changing the structure of the app little by little.
+
+ I have experience leading iOS part for a year. I have always tried to develop the app service carefully so that there was no problem with it. And to think about how to develop an app with good performance, and to learn new technology, apply it, and improve it. I've never delayed a schedule, and fortunately, no critical issues have occurred. I also introduced development culture internally, considering how to operate iOS development process by working on overall management as well as development.
+
+Even now, I am always studying and try to become a better developer. I want to be a developer who develops apps that are fun and convenient for users.
