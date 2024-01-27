@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-다시 시작해서 준비해 보자 :)
+Gardening 🏡
