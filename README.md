@@ -1,5 +1,7 @@
 # Create something, craft well
-(주)뉴넥스에서 서비스하고 있는 브랜디, 하이버, 서울스토어 iOS 개발 및 유지 보수 작업을 했습니다. 2018년부터 2023년까지 iOS 개발자로 일했고 현재는 쉬면서 새로운 도전과 경험을 하고 있습니다. 최근에는 사이드 프로젝트로 앱 개발하고 있습니다.
+I’m an iOS engineer living in South Korea. Currently exploring new challenges and building side projects while sharing my development experiences through this blog.
+
+I made I Need That Widget, an app that displays your today’s calendar events through widgets.
 
 <!--
 **imjhk03/imjhk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
