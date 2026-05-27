@@ -1,19 +1,15 @@
-# Create something, craft well
-I’m an iOS engineer living in South Korea. Currently exploring new challenges and building side projects.
+# Hi, I'm Joohee 👋
+I’m an iOS engineer living in South Korea 🇰🇷. Currently exploring new challenges and building apps.
 
-I made [I Need That Widget](https://apps.apple.com/us/app/i-need-that-widget/id6753172187), an app that displays your today’s calendar events through widgets.
+Apps
+---
+- 📆 [I Need That Widget](https://apps.apple.com/app/apple-store/id6753172187) - See your calendar events and reminders at a glance with widgets.
 
-<!--
-**imjhk03/imjhk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm Doing
+---
+- Living as an indie developer - Working on apps that I build or contracts
+- Documenting my life - Sharing my life and learnings on [jooheekim.me](https://jooheekim.me)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Philosophy
+---
+> "Create something, craft well" - I want to create something that solves the problem, then craft well to make it good.
