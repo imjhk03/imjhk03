@@ -5,6 +5,10 @@ Apps
 ---
 - 📆 [I Need That Widget](https://apps.apple.com/app/apple-store/id6753172187) - See your calendar events and reminders at a glance with widgets.
 
+Other
+---
+- 🖼️ [Xcode One Light](https://github.com/imjhk03/xcode-one-light) - An Atom One Light inspired theme for Xcode.
+
 What I'm Doing
 ---
 - Living as an indie developer - Working on apps that I build or contracts
