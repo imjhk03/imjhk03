@@ -8,6 +8,7 @@ Apps
 Other
 ---
 - 🖼️ [Xcode One Light](https://github.com/imjhk03/xcode-one-light) - An Atom One Light inspired theme for Xcode.
+- 🍳 [Skills](https://github.com/imjhk03/skills) - Codex skills I use.
 
 What I'm Doing
 ---
